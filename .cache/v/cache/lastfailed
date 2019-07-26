@@ -1,0 +1,5 @@
+{
+  "test_pre.py::test_one": true,
+  "test_pre.py::test_three": true,
+  "test_pre.py::test_two": true
+}
